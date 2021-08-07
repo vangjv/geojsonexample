@@ -1,21 +1,5 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.65335738658904,
-                    45.512083676585156
-                ]
-            },
-            "properties": {
-                "name": "Jon Vang",
-                "description": "1212 SE Hawthorne Boulevard",
-                "date": "11/25/1990",
-                "otherInformation": "none"
-            }
-        }
     ]
 }
